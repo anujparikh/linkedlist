@@ -56,3 +56,4 @@ LinkedList<String> object = new LinkedList<String>();
 - [`Delete Node from Linked List (without head):`](https://leetcode.com/problems/delete-node-in-a-linked-list/) [Solution](./src/practice/examples/DeleteNode.java) (Easy)
 - [`Remove Nth Node From End of List:`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Solution](./src/practice/examples/RemoveNthNodeFromEnd.java) (Easy)
 - [`Reverse Linked List:`](https://leetcode.com/problems/reverse-linked-list/) [Solution](./src/practice/examples/ReverseLL.java) (Easy)
+- [`Merge Two Sorted Lists:`](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](./src/practice/examples/Merge2SortedLL.java) (Easy)
