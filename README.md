@@ -53,4 +53,4 @@ LinkedList<String> object = new LinkedList<String>();
 ```
 
 ### Examples
-- [`Remove Duplicates from Sorted Array:`](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) [Solution](./src/practice/examples/RemoveDuplicates.java) (Easy)
+- [`Delete Node from Linked List (without head):`](https://leetcode.com/problems/delete-node-in-a-linked-list/) [Solution](./src/practice/examples/DeleteNode.java) (Easy)
