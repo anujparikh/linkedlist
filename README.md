@@ -54,3 +54,4 @@ LinkedList<String> object = new LinkedList<String>();
 
 ### Examples
 - [`Delete Node from Linked List (without head):`](https://leetcode.com/problems/delete-node-in-a-linked-list/) [Solution](./src/practice/examples/DeleteNode.java) (Easy)
+- [`Remove Nth Node From End of List:`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Solution](./src/practice/examples/RemoveNthNodeFromEnd.java) (Easy)
