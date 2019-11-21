@@ -16,4 +16,14 @@ public class ListNode {
             head = head.next;
         }
     }
+
+    public static ListNode createLLFromArray(int [] nums) {
+        ListNode head = new ListNode(-1);
+        ListNode ptr = head;
+        for (int i = 0; i < nums.length; i++) {
+            head.next = new ListNode(nums[i]);
+            head = head.next;
+        }
+        return ptr.next;
+    }
 }
