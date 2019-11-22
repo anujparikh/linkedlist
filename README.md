@@ -60,3 +60,4 @@ LinkedList<String> object = new LinkedList<String>();
 - [`Palindrome Linked List:`](https://leetcode.com/problems/palindrome-linked-list/) [Solution](./src/practice/examples/PalindromeLL.java) (Easy)
 - [`Linked List Cycle:`](https://leetcode.com/problems/linked-list-cycle/) [Solution](./src/practice/examples/LLCycle.java) (Easy)
 - [`Add Two Numbers:`](https://leetcode.com/problems/add-two-numbers/) [Solution](./src/practice/examples/AddTwoNumbers.java) (Medium)
+- [`Odd Even Linked List:`](https://leetcode.com/problems/odd-even-linked-list/) [Solution](./src/practice/examples/OddEvenLL.java) (Medium)
