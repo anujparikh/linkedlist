@@ -61,3 +61,4 @@ LinkedList<String> object = new LinkedList<String>();
 - [`Linked List Cycle:`](https://leetcode.com/problems/linked-list-cycle/) [Solution](./src/practice/examples/LLCycle.java) (Easy)
 - [`Add Two Numbers:`](https://leetcode.com/problems/add-two-numbers/) [Solution](./src/practice/examples/AddTwoNumbers.java) (Medium)
 - [`Odd Even Linked List:`](https://leetcode.com/problems/odd-even-linked-list/) [Solution](./src/practice/examples/OddEvenLL.java) (Medium)
+- [`Intersection of Two Linked Lists:`](https://leetcode.com/problems/intersection-of-two-linked-lists/) [Solution](./src/practice/examples/IntersectionOf2LL.java) (Medium)
