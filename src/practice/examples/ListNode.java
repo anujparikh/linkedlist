@@ -6,8 +6,10 @@ public class ListNode {
     ListNode next;
 
     ListNode(int x) {
-        val = x;
+        this.val = x;
     }
+
+    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 
     public static void printListNode(ListNode head) {
         while(head != null) {
